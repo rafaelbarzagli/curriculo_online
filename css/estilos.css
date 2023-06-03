@@ -11,3 +11,7 @@ body{
 .foto{
     border: 2px solid black ;
 }
+
+fieldset{
+    border-color: rgb(0, 0, 0);
+}
